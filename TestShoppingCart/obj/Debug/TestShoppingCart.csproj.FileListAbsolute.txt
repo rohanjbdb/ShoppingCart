@@ -1,0 +1,8 @@
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\obj\Debug\TestShoppingCart.csprojResolveAssemblyReference.cache
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\bin\Debug\TestShoppingCart.dll
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\bin\Debug\TestShoppingCart.pdb
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\bin\Debug\CartCouponLibrary.dll
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\bin\Debug\CartCouponLibrary.pdb
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\obj\Debug\TestShoppingCart.dll
+c:\users\rvijaybhingardive\documents\visual studio 2015\Projects\ShoppingCart\TestShoppingCart\obj\Debug\TestShoppingCart.pdb
